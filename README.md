@@ -35,7 +35,7 @@
 *   **視覺聯動**：程式會自動把 `{好奇}` 這種標記轉換為資料庫裡的圖片網址，隨時換角色圖。
 
 ---
-![image](https://cdn.discordapp.com/attachments/1376213496152457277/1508820875732844554/1.png?ex=6a16ee71&is=6a159cf1&hm=128443d3f6e08bfdb90fac4ef8e419004f82af19ed48ce16d279ef3e6b7cca6a&)
+![image](https://github.com/Kiyuko0412/text/img/1.jpg)
 ---
 
 ## 後台資料整合
@@ -48,7 +48,7 @@
 *   **優點**：如果我想換角色的畫風，我只要去資料庫改網址，完全不用動到劇本或程式。
 
 ---
-> ![image](https://cdn.discordapp.com/attachments/1376213496152457277/1508821597262184508/2.png?ex=6a16ef1d&is=6a159d9d&hm=7c1d546f80711c5d2acfe7842967c79f5b0d357df1967d9bec4f6bf7d866a108&)
+![image](https://github.com/Kiyuko0412/text/img/2.jpg)
 ---
 
 ### 2. 閱讀存檔
