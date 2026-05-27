@@ -35,7 +35,7 @@
 *   **視覺聯動**：程式會自動把 `{好奇}` 這種標記轉換為資料庫裡的圖片網址，隨時換角色圖。
 
 ---
-![image](https://github.com/Kiyuko0412/text/img/1.png)
+![image](https://github.com/Kiyuko0412/text/blob/main/img/1.png)
 ---
 
 ## 後台資料整合
@@ -48,7 +48,7 @@
 *   **優點**：如果我想換角色的畫風，我只要去資料庫改網址，完全不用動到劇本或程式。
 
 ---
-![image](https://github.com/Kiyuko0412/text/img/2.png)
+![image](https://github.com/Kiyuko0412/text/blob/main/img/2.png)
 ---
 
 ### 2. 閱讀存檔
